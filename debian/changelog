@@ -1,3 +1,9 @@
+xfce4-i3-workspaces-plugin (1.2.0-5) unstable; urgency=low
+
+  * Fixed build dependency
+
+ -- Alexandre Acebedo <alexandre.acebedo@gmail.com>  Tue, 22 Oct 2017 19:49:42 +0200
+
 xfce4-i3-workspaces-plugin (1.2.0-4) unstable; urgency=low
 
   * Rebased on upstream commit 52569f9f35c3ad2688589418b08399da9629405d 
